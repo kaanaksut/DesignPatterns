@@ -1,0 +1,17 @@
+{
+	"folders": [
+		{
+			"path": "."
+		},
+		{
+			"path": "DesingPatterns/src/Creational"
+		},
+		{
+			"path": "..DesingPatterns/src/Structural"
+		},
+		{
+			"path": "..DesingPatterns/src/Behavioral"
+		}
+	],
+	"settings": {}
+}
